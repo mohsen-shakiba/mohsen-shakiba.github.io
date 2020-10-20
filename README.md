@@ -4,8 +4,10 @@
 
 # مهارت ها
 <table>
-  <tr><td>AVR Microcontroller</td></tr>
+  <tr><td>AVR Microcontroller (CodeVission Compiler)</td></tr>
+  <tr><td>PIC Microcontroller (CCS Compiler)</td></tr>
   <tr><td>C/C++ programming language</td></tr>
+  <tr><td>Embedded System Design</td></tr>
  </table><br>
 
 # سوابق کاری
