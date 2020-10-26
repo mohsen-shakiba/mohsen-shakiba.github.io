@@ -1,6 +1,18 @@
 # mohsen-shakiba.github.io
 # دانشجوی کارشناسی رشته نرم افزار
 <br>
+<p>
+آخرین مدرک تحصیلی : کاردانی 
+</p><br>
+<p>
+معدل : 15.80   
+</p><br>
+<p>
+رشته : مهندسی نرم افزار  
+</p><br>
+<p>
+دانشگاه پیام نور مرکز تهران شمال
+</p><br>
 
 # مهارت ها
 <table>
@@ -30,9 +42,34 @@
  </table><br>
 
 # سوابق کاری
-<table>
-  <tr><td>شرکت ایران تکنولوژی</td></tr>
-  <tr><td>Iran Technology Company</td></tr>
-  <tr><td>شرکت ایستا ابنیه رادین</td></tr>
-  <tr><td>Radin Static Construction Company</td></tr>
+<table style="text-align:center;">
+  <tr>
+    <td>نام شرکت</td>
+    <td>Company Name</td>
+    <td>مدت همکاری</td>
+    <td>collaboration period</td>
+    <td>سمت</td>
+    <td>Post</td>
+  </tr>
+  
+  <tr>
+  <td>
+    شرکت ایران تکنولوژی
+  </td>
+  <td>Iran Technology Company</td>
+  <td>1 سال</td>
+  <td>1 yaer</td>
+  <td>برنامه نویس</td>
+  <td>Programmer</td>
+  </tr>
+  <tr>
+  <td>   
+    شرکت ایستا ابنیه رادین
+  </td>
+  <td>Radin Static Construction Company</td>
+  <td>2سال</td>
+  <td>2 yaer</td>
+  <td>برنامه نویس</td>
+  <td>Programmer</td>
+  </tr>
  </table>
